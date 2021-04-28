@@ -1,0 +1,37 @@
+body{
+    background-image: url("fire.jpg");
+    background-size: 100%;
+    
+    background-position-y: bottom;
+}
+
+.bg{
+    
+    color: white;
+}
+
+h3{
+    text-align: left;
+}
+
+div{
+    margin-left: 600px;
+    padding: 60px;
+    padding-top: 170px;
+    font-size: 40px;
+}
+
+a{
+    color: white;
+    padding-top: 10px;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+img{
+    size: 4px;
+}
+
+a:hover{
+    color:blue;
+}
