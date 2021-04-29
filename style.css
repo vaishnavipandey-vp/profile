@@ -5,16 +5,12 @@ body{
     background-position-y: bottom;
 }
 
-.bg{
-    
-    color: white;
-}
-
 h3{
     text-align: left;
 }
 
 div{
+    color: white;
     margin-left: 600px;
     padding: 60px;
     padding-top: 170px;
